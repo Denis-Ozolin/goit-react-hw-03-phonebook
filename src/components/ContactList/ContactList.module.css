@@ -1,0 +1,19 @@
+.contacts__list{
+  width: 300px;
+  list-style: none;
+}
+
+.contacts__item{
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 10px;
+  color: darkblue;
+  cursor: pointer;
+}
+
+.contacts__btn{
+  margin-left: auto;
+  background-color: tomato;
+  color: white;
+  cursor: pointer;
+}

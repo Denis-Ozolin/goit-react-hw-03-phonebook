@@ -1,0 +1,9 @@
+.filter__title{
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.filter__input{
+  padding: 5px;
+  margin-bottom: 10px;
+}

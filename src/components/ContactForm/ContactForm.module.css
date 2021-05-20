@@ -1,0 +1,23 @@
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.form__inputName{
+  margin: 0;
+  margin-bottom: 5px;
+}
+
+.form__input{
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.form__btn{
+  width: 100%;
+  padding: 5px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}

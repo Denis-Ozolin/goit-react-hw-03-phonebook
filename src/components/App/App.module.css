@@ -1,0 +1,17 @@
+.phonebook{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.phonebook__title{
+  font-weight: 500;
+  color: green;
+  border-bottom: 2px solid green;
+}
+
+.contacts__title{
+  font-weight: 500;
+  color: darkblue;
+  border-bottom: 2px solid darkblue;
+}
